@@ -1,9 +1,7 @@
 ### Hey there! 👋🏼
 
 > My name is Yosephaider Vanegas (he / him).
-
 #
-
   - If you're based in the Colombia, feel free to reach out to me if you're looking for share experiences. I realize that your professional experience won't be the same as mine, but I'd like to help however I can.
   - I'm interested in:
     - Compilers & language runtimes
